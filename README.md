@@ -1,5 +1,5 @@
 # Epileptic Seizure Prediction Using EEG Signals
-### Phase-2 Architecture with Deep Learning and XAI
+### Architecture with Deep Learning and XAI
 
 This project focuses on **epileptic seizure prediction and classification** using **EEG signal analysis**, **deep learning**, and **Explainable AI (XAI)** techniques.  
 The system classifies EEG signals into **Pre-ictal, Ictal, and Inter-ictal** phases to support early seizure detection and clinical decision-making.
@@ -22,7 +22,7 @@ This project implements a **Phase-2 architecture** that:
 
 ![Architecture](phase2_architecture.jpeg)
 
-> **Fig 4.2 – Phase-2 Architecture for Epileptic Seizure Prediction**
+> **Architecture for Epileptic Seizure Prediction**
 
 ---
 
